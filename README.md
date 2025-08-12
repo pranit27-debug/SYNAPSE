@@ -1,6 +1,6 @@
 # 🧠 Synapse Project
 
-A modern, full-stack note and task management application built with Node.js, Express, React, and MongoDB.
+A modern, full-stack note and task management application built with Node.js, Express, React, and MongoDB and OpenCV.
 
 ## 🏗️ Project Structure
 
