@@ -171,3 +171,5 @@ See `backend/.env.example` for all required environment variables.
 ## 📄 License
 
 MIT License - see LICENSE file for details
+
+Made by Pranit Narayan 
